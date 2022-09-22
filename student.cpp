@@ -2,7 +2,7 @@
 #include <string>
 #include <fstream>
 #include <algorithm>
-#include "hw2.h"
+#include "student.h"
 
 
 void Student::print(ofstream& output) //works
